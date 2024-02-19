@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "author": "ikavolo",
+    "version": "0.0.1",
+    "name": "milk2theme",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1118010833360916522/1209032302513098762/FQ3-2IVaAAEi_Y0.jpg?ex=65e57213&is=65d2fd13&hm=6c135ae359b54c1559723ee530720b4d75fd5852d1c7a34546d0c40bd72119fd&",
+    "overlay_alpha": 155,
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "active_channel": -5492176,
+    "input_background": -15921645,
+    "mention_highlight": -5492176
+  },
+  "colors": {
+    "brand_new_260": -5492176,
+    "primary_dark_660": -15921645,
+    "primary_dark_330": -5492176
+  },
+  "drawable_tints": {}
+}
