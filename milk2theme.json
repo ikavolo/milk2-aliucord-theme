@@ -3,7 +3,9 @@
     "author": "ikavolo",
     "version": "0.0.1",
     "name": "milk2theme",
-    "transparency_mode": 3
+    "transparency_mode": 3,
+    "license": "fart",
+    "updater": "https://raw.githubusercontent.com/ikavolo/milk2-aliucord-theme/main/milk2theme.json"
   },
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1118010833360916522/1209032302513098762/FQ3-2IVaAAEi_Y0.jpg?ex=65e57213&is=65d2fd13&hm=6c135ae359b54c1559723ee530720b4d75fd5852d1c7a34546d0c40bd72119fd&",
